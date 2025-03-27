@@ -19,16 +19,16 @@ completed once all these boxes are ticked.
 
 ### Matching input strings
 
-[ ] Matching literals
-[ ] Quantifiers
-[ ] Alternative
-[ ] Anchors
-[ ] Matching built-in classe (`\d` for ASCII digits for example)
-[ ] Matching custom character classes
-[ ] Groups
-[ ] Lookahead and Lookbehind
+- [ ] Matching literals
+- [ ] Quantifiers
+- [ ] Alternative
+- [ ] Anchors
+- [ ] Matching built-in classe (`\d` for ASCII digits for example)
+- [ ] Matching custom character classes
+- [ ] Groups
+- [ ] Lookahead and Lookbehind
 
 ### Output for further processing
 
-[ ] Indices of matched substring
-[ ] Reading substrings matched by groups
+- [ ] Indices of matched substring
+- [ ] Reading substrings matched by groups
