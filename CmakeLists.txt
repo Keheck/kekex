@@ -1,0 +1,8 @@
+project(kekex)
+
+set(cxx_src
+    
+)
+
+add_library(kekex SHARED)
+# add_library(kekex STATIC)
